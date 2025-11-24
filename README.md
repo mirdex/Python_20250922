@@ -20,3 +20,4 @@
 - [7. 函數](http://mirdex.github.io/Python_20250922/7.%20函數_Q.slides.html)
 - [8. 類別](http://mirdex.github.io/Python_20250922/8.%20類別_Q.slides.html)
 - [9. 例外處理](http://mirdex.github.io/Python_20250922/9.%20例外處理.slides.html)
+- [10. 總複習一_Comprehension](http://mirdex.github.io/Python_20250922/10.%20總複習一_Comprehension_Q.slides.html)
