@@ -23,3 +23,4 @@
 - [10. 總複習一_Comprehension](http://mirdex.github.io/Python_20250922/10.%20總複習一_Comprehension_Q.slides.html)
 - [11. 總複習二_模組開發](http://mirdex.github.io/Python_20250922/11.%20總複習二_模組開發_Q.slides.html)
 - [12. 檔案處理](http://mirdex.github.io/Python_20250922/12.%20檔案處理_Q.slides.html)
+- [13. Numpy](http://mirdex.github.io/Python_20250922/13.%20NumPy_Q.slides.html) 
